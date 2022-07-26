@@ -12,8 +12,13 @@
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``React.js`
+- ``React.js``
 - ``Node.js``
 - ``Express.js``
 - ``Styled-components``
 - ``Docker``
+
+## Rodando a aplicação
+
+- ``git clone https://github.com/LucianTavares/upload-app.git``
+- ``docker-compose up``
